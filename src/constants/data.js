@@ -12,17 +12,17 @@ const cola = [
     tags: "AU | Bottle",
   },
   {
-    title: "abo Ahmad",
+    title: "peipse",
     price: "$44",
     tags: "FR | 750 ml",
   },
   {
-    title: "Abo Abod",
+    title: "coca cola",
     price: "$31",
     tags: "CA | 750 ml",
   },
   {
-    title: "Abo Zaher",
+    title: "7up",
     price: "$26",
     tags: "IE | 750 ml",
   },
